@@ -1,2 +1,0 @@
-# DRUMKIT
-Drumkit Project
